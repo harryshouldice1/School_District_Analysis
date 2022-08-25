@@ -11,13 +11,13 @@ Thomas High School was suspected of cheating. It is my job to perform an analysi
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   * Thomas High School was affected by going from the second best in performance to eighth out of fifteen
 ## How does replacing the ninth-grade scores affect the following
-Math and reading scores by grade
+### Math and reading scores by grade
 * The scores for ninth graders have been replacerd by NaNs
-Scores by school spending
+### Scores by school spending
 * No significant change
-Scores by school size
+### Scores by school size
 * No significant change
-Scores by school type
+### Scores by school type
 * The charter school saw no significant change
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
