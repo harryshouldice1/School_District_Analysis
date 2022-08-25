@@ -21,4 +21,4 @@ Thomas High School was suspected of cheating. It is my job to perform an analysi
 * The charter school saw no significant change
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-The passing rate for Thomas High School increased.  Performance rankings significantly decreased for Thomas High school.  Ninth Graders at Thomas High School have had their grades replaced with a NaN.  
+The passing rate for Thomas High School increased.  Performance rankings significantly decreased for Thomas High school.  Ninth Graders at Thomas High School have had their grades replaced with a NaN.  Passing percentages changed.
